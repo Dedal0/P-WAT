@@ -8,11 +8,11 @@ Uso desde Linux (Ubuntu)
 ========================
 
 Dependencias:
-    sudo apt-get install python-pdfrw
-    sudo apt-get install python-pdfminer
+        sudo apt-get install python-pdfrw
+        sudo apt-get install python-pdfminer
 
 Descargar:
-    wget https://raw.githubusercontent.com/Dedal0/P-WAT/master/pwat.py
+        wget https://raw.githubusercontent.com/Dedal0/P-WAT/master/pwat.py
     
 Usar:    
-    python pwat.py
+        python pwat.py
